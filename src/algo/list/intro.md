@@ -1,7 +1,3 @@
-Table of contents
-
-{:toc}
-
 # Linked List (Singly Linked List)
 ## key concepts
 in the order of usefulness.
