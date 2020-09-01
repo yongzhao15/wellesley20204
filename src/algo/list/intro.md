@@ -51,4 +51,7 @@ https://leetcode.com/problems/reverse-linked-list/
 https://leetcode.com/problems/remove-linked-list-elements/  
 * Remove all elements from a linked list of integers that have value val.
 * a variation of reverse linked list 
-* head can change
+
+## Delete Node in a Linked List
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+* a trick question 
