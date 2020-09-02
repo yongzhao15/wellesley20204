@@ -52,6 +52,11 @@ https://leetcode.com/problems/remove-linked-list-elements/
 * Remove all elements from a linked list of integers that have value val.
 * a variation of reverse linked list 
 
+## Linked List Components 
+https://leetcode.com/problems/linked-list-components/submissions/
+* another application of tracking prev while using curr to iterate over the list.
+* pretty easy don't feel it's a medium 
+
 ## Delete Node in a Linked List
 https://leetcode.com/problems/delete-node-in-a-linked-list/
 * a trick question 
