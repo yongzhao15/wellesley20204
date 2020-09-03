@@ -60,3 +60,7 @@ https://leetcode.com/problems/linked-list-components/submissions/
 ## Delete Node in a Linked List
 https://leetcode.com/problems/delete-node-in-a-linked-list/
 * a trick question 
+
+## 1017 Next Greater Node In Linked List
+https://leetcode.com/problems/next-greater-node-in-linked-list/
+* more an array and stack problem than a list problem 
