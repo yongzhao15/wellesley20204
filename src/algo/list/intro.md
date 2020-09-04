@@ -64,3 +64,8 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/
 ## 1017 Next Greater Node In Linked List
 https://leetcode.com/problems/next-greater-node-in-linked-list/
 * more an array and stack problem than a list problem 
+
+## 445 Add Two Numbers II
+https://leetcode.com/problems/add-two-numbers-ii/
+* use recursion to solve linked list problem
+* align two lists by the tail 
