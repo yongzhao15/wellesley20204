@@ -69,3 +69,7 @@ https://leetcode.com/problems/next-greater-node-in-linked-list/
 https://leetcode.com/problems/add-two-numbers-ii/
 * use recursion to solve linked list problem
 * align two lists by the tail 
+
+## 234 Palindrome Linked List
+https://leetcode.com/problems/palindrome-linked-list/
+* an application of reverse linked list 
