@@ -73,3 +73,7 @@ https://leetcode.com/problems/add-two-numbers-ii/
 ## 234 Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/
 * an application of reverse linked list 
+
+## 109 Convert Sorted List to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+* infix order build BST
