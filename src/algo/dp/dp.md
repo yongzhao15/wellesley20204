@@ -16,3 +16,9 @@ https://leetcode.com/problems/coin-change-2/
 * number of ways to change
 * what is the base case, or **cases**?
 * same as https://leetcode.com/problems/combination-sum/
+
+### 790 Domino and Tromino Tiling
+https://leetcode.com/problems/domino-and-tromino-tiling/
+* DP 
+* no matter how big n is, it's still affected by 0;
+* half DP and half math problem to optimize

@@ -13,6 +13,18 @@ public class ArrayUtils {
         return sb.toString();
     }
 
+    public static String dumpArray(long[] arr) {
+        if (arr == null || arr.length == 0) {  return "";  }
+
+        StringBuilder sb = new StringBuilder();
+        sb.append(arr[0]);
+        for(int i = 1; i < arr.length; i++ ) {
+            sb.append(", " + arr[i]);
+        }
+
+        return sb.toString();
+    }
+
     public static String dumpArray2D(int[][] arr) {
         int m = arr.length, n = arr[0].length;
         StringBuilder sb = new StringBuilder();
