@@ -30,7 +30,7 @@ public class ArrayUtils {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
-                sb.append(String.format("%5d", arr[i][j]));
+                sb.append(String.format("%11d", arr[i][j]));
             }
             sb.append(System.lineSeparator());
         }
