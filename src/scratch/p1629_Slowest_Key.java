@@ -1,4 +1,4 @@
-package misc;
+package scratch;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

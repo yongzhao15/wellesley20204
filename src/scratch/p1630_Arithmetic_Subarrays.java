@@ -1,6 +1,4 @@
-package misc;
-
-import common.ArrayUtils;
+package scratch;
 
 import java.util.*;
 

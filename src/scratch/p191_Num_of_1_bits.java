@@ -1,4 +1,4 @@
-package misc;
+package scratch;
 
 public class p191_Num_of_1_bits {
     public static void main(String[] args) {
